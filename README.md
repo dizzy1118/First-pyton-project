@@ -1,2 +1,5 @@
 # First-pyton-project
-Hello world
+A ="Hello world"
+print(A)
+Name=input()
+print("Name:",A)
